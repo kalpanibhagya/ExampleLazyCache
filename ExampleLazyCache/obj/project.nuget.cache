@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKmiLLwobjQmJprnU8avBZH8ehAwktsbdHEawXtuLbbE5YgDhAt5AJK6Zrqj02SohjRCVvaV1ybmJIEFRBFDyg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\ExampleLazyCache\\ExampleLazyCache\\ExampleLazyCache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\lazycache\\2.1.2\\lazycache.2.1.2.nupkg.sha512",
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.1.0\\microsoft.extensions.caching.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.1.0\\microsoft.extensions.caching.memory.2.1.0.nupkg.sha512",
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\KalpaniR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
